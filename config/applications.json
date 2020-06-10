@@ -1,0 +1,6 @@
+{
+    "javaApp": {
+        "type": "java",
+        "webapp": "/home/vagadia/demo-2.0.0.war"
+    }
+}
