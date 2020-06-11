@@ -1,4 +1,9 @@
-{
+"listeners" : {
+    "*:9000": {
+        "pass": "applications/express_app"
+    }
+},
+"applications": {
     "express_app":{
         "type": "external",
         "working_directory": "/home/vagadia/unit/nodejs-web-app",

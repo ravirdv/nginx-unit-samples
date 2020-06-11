@@ -1,0 +1,14 @@
+
+"listeners" : {
+    "*:8000": {
+        "pass": "applications/javaApp"
+    }
+}
+
+"applications" : {
+    "javaApp": {
+         "type": "java",
+         "webapp": "/home/vagadia/demo-1.0.0.war"
+     }
+
+}
