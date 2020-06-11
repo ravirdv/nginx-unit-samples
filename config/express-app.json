@@ -1,0 +1,8 @@
+{
+    "express_app":{
+        "type": "external",
+        "working_directory": "/home/vagadia/unit/nodejs-web-app",
+        "executable": "app.js",
+	"user": "vagadia"
+    }
+}
